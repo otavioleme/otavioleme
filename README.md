@@ -51,6 +51,6 @@ A full-stack Trello-like task management app built with **Next.js + .NET + Postg
 
 ## 📊 GitHub Stats
 
-![Otavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavioleme&show_icons=true&theme=tokyonight)
+![Otavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavioleme&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otavioleme&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otavioleme&layout=compact&theme=dark)
