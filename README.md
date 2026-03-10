@@ -31,7 +31,15 @@ I'm a **Backend Developer** from Brazil 🇧🇷, passionate about building robu
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-## 📌 Featured Project
+## 📌 Featured Projects
+
+### [ChatApp](https://github.com/otavioleme/chatapp)
+A full-stack real-time chat application built with **Next.js + .NET + SignalR + PostgreSQL**.
+- JWT Authentication
+- Real-time messaging with SignalR (rooms + direct messages)
+- Image sharing (upload or paste from clipboard)
+- Online/offline presence, typing indicators and unread badges
+- Avatar / profile picture upload
 
 ### [Task Manager](https://github.com/otavioleme/taskmanager)
 A full-stack Trello-like task management app built with **Next.js + .NET + PostgreSQL**.
