@@ -34,6 +34,14 @@ I'm a **Backend Developer** from Brazil 🇧🇷, passionate about building robu
 
 ## 📌 Featured Projects
 
+### [WriteAI](https://github.com/otavioleme/writeai) — [Live Demo](https://writeai-lyart.vercel.app)
+A full-stack AI-powered writing assistant built with **Next.js + .NET + Google Gemini + PostgreSQL**.
+- JWT Authentication
+- Rich text editor with TipTap
+- AI actions with streaming: Improve Writing, Summarize and Generate Ideas
+- Autosave while typing
+- Dark / Light mode
+
 ### [ChatApp](https://github.com/otavioleme/chatapp)
 A full-stack real-time chat application built with **Next.js + .NET + SignalR + PostgreSQL**.
 - JWT Authentication
