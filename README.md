@@ -6,8 +6,6 @@ I'm a **Backend Developer** from Brazil 🇧🇷, passionate about building robu
 
 - 🔭 Currently working on personal projects to build my portfolio
 - 🌱 Learning and improving my skills in **.NET, TypeScript and Next.js**
-- 💼 Looking for **remote opportunities**
-- 💬 Ask me about **C#, .NET, REST APIs, PostgreSQL**
 
 ## 🛠️ Tech Stack
 
